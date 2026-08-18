@@ -1428,7 +1428,7 @@ body.dark .intro-card {
 }
 
 body.dark .filter {
-    color: #aaa;
+    color: lightgray;
 }
 
 body.dark .filter.active {
